@@ -7,6 +7,7 @@ Welcome racers! Add your name below to join the race! 🏁
 ## 🏆 Participants
 
 <!-- Add your name below this line! Format: - Your Name (@github-username) -->
+- Hafizuddin Hakimi (@HafiyKimmy)
 
 - Hovah Yii (@hovahyii) - 🎯 Workshop Instructor
 
